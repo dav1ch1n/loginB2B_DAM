@@ -5,6 +5,8 @@
     --tertiaryLightColor: #80ED99;
     --tertiaryLighterColor: #C7F9CC;
     --white: #ffffff;
+    --headerFont: "Exo 2";
+    --textFont: "Outfit";
 }
 
 @import url(fonts.css);
