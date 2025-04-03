@@ -10,3 +10,13 @@
 }
 
 @import url(fonts.css);
+body {
+    background-image: url("../estructura_final_login.png");
+    text-align: center;
+    align-content: center;
+    max-width: 100px;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+
+} 
